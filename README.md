@@ -9,6 +9,7 @@ This project uses following library
 - esbuild: To transpiler code written in web browser in executable javascript code.
 - prittier code formatter: To format code written by user in monaco editor.
 - bulmaswatch: css library for overall styling of application. 
+- react-resizable: to resize react components
 
 # Scripts
 Create a react project with typescript support

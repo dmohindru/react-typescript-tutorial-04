@@ -10,6 +10,7 @@ This project uses following library
 - prittier code formatter: To format code written by user in monaco editor.
 - bulmaswatch: css library for overall styling of application. 
 - react-resizable: to resize react components
+- uiw/react-md-wd: for markdown editor in this application
 
 # Scripts
 Create a react project with typescript support

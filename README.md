@@ -11,6 +11,7 @@ This project uses following library
 - bulmaswatch: css library for overall styling of application. 
 - react-resizable: to resize react components
 - uiw/react-md-wd: for markdown editor in this application
+- immer: for simplified state reducers implementations
 
 # Scripts
 Create a react project with typescript support

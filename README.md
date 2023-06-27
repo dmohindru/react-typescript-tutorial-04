@@ -12,6 +12,7 @@ This project uses following library
 - react-resizable: to resize react components
 - uiw/react-md-wd: for markdown editor in this application
 - immer: for simplified state reducers implementations
+- fortawesome/fontawesome: To use icons for button
 
 # Scripts
 Create a react project with typescript support

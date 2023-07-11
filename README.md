@@ -2,6 +2,7 @@
 
 - [Project intro](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/learn/lecture/24209032#content)
 - This project demonstrates how to use ESBuild to transpile a code in a web browser using React app
+- Use cli to lauch a project [Intro video](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project/learn/lecture/24627748#content)
 
 # Library used
 This project uses following library

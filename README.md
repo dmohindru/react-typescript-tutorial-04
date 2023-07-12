@@ -14,6 +14,7 @@ This project uses following library
 - uiw/react-md-wd: for markdown editor in this application
 - immer: for simplified state reducers implementations
 - fortawesome/fontawesome: To use icons for button
+- Learna CLI : To manage multi package project 
 
 # Scripts
 Create a react project with typescript support
